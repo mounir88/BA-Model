@@ -5,6 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.junit.jupiter.api.Assertions.fail;
 
 import java.io.File;
+import java.io.FilenameFilter;
 import java.util.Arrays;
 import java.util.List;
 
@@ -25,11 +26,15 @@ class MedikationsplanTest {
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
 		testPaketPath = "src/de/htwg/gib/egkterminal/model/medikationsplan/testpaket";
-		testFiles = Arrays.asList(new File(testPaketPath).listFiles());
+		testFiles = Arrays.asList(new File(testPaketPath).listFiles(new FilenameFilter() {
+			public boolean accept(File dir, String name) {
+				return name.toLowerCase().endsWith(".xml");
+			}
+		}));
 	}
 
 	@Test
-	void testInstanceIdValid() throws JAXBException {
+	void testMedikationsplanValid() throws JAXBException {
 		JAXBContext jc = JAXBContext.newInstance(MedikationsPlan.class);
 		Unmarshaller unmarshaller = jc.createUnmarshaller();
 		testFiles.forEach(testFile -> {

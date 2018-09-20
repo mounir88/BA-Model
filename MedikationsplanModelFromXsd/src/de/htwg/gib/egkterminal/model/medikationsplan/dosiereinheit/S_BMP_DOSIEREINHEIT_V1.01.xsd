@@ -21,7 +21,7 @@
 												use="optional" />
 											<xs:attribute type="xs:string" name="SV"
 												use="optional" />
-											<xs:attribute type="xs:byte" name="sortierung"
+											<xs:attribute type="xs:string" name="sortierung"
 												use="optional" />
 											<xs:attribute type="xs:string" name="bedeutung"
 												use="optional" />

@@ -23,8 +23,7 @@ class DosiereinheitenTest {
 	void testLoadDosiereinheiten() throws JAXBException {
 		JAXBContext jc = JAXBContext.newInstance(Dosiereinheiten.class);
 		Unmarshaller unmarshaller = jc.createUnmarshaller();
-		Dosiereinheiten dosiereinheiten = null;
-		dosiereinheiten = (Dosiereinheiten) unmarshaller.unmarshal(DOSIEREINHEITEN_XML);
+		Dosiereinheiten dosiereinheiten = (Dosiereinheiten) unmarshaller.unmarshal(DOSIEREINHEITEN_XML);
 		assertNotNull(dosiereinheiten.getSchluesseltabelle().getKodierungen());
 	}
 
@@ -32,15 +31,26 @@ class DosiereinheitenTest {
 	void testCode0EqualsMessbecher() throws JAXBException {
 		JAXBContext jc = JAXBContext.newInstance(Dosiereinheiten.class);
 		Unmarshaller unmarshaller = jc.createUnmarshaller();
-		Dosiereinheiten dosiereinheiten = null;
-		dosiereinheiten = (Dosiereinheiten) unmarshaller.unmarshal(DOSIEREINHEITEN_XML);
-		List<Dosiereinheit> dosiereinheitKodierung = dosiereinheiten.getSchluesseltabelle().getKodierungen();
+		Dosiereinheiten dosiereinheiten = (Dosiereinheiten) unmarshaller.unmarshal(DOSIEREINHEITEN_XML);
+		List<Dosiereinheit> dosiereinheitKodierungen = dosiereinheiten.getSchluesseltabelle().getKodierungen();
 
 		String code = "0";
-		String bezeichnung = dosiereinheitKodierung.stream()
-				.filter(dosiereinheit -> code.equals(dosiereinheit.getCode())).map(Dosiereinheit::getEinheit).findAny()
-				.orElse("");
-		assertEquals("Messbecher", bezeichnung);
+		String einheit = dosiereinheitKodierungen.stream().filter(dosiereinheit -> code.equals(dosiereinheit.getCode()))
+				.map(Dosiereinheit::getEinheit).findAny().orElse("");
+		assertEquals("Messbecher", einheit);
+	}
+	
+	@Test
+	void testCodeNotFound() throws JAXBException {
+		JAXBContext jc = JAXBContext.newInstance(Dosiereinheiten.class);
+		Unmarshaller unmarshaller = jc.createUnmarshaller();
+		Dosiereinheiten dosiereinheiten = (Dosiereinheiten) unmarshaller.unmarshal(DOSIEREINHEITEN_XML);
+		List<Dosiereinheit> dosiereinheitKodierungen = dosiereinheiten.getSchluesseltabelle().getKodierungen();
+
+		String code = "ThisIsAnInvalidCode";
+		String einheit = dosiereinheitKodierungen.stream().filter(dosiereinheit -> code.equals(dosiereinheit.getCode()))
+				.map(Dosiereinheit::getEinheit).findAny().orElse("");
+		assertEquals("", einheit);
 	}
 
 }

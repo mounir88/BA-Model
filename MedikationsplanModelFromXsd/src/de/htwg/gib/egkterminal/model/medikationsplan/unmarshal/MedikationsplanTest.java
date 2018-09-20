@@ -20,13 +20,12 @@ import de.htwg.gib.egkterminal.model.medikationsplan.MedikationsPlan;
 
 class MedikationsplanTest {
 
-	static String testPaketPath;
-	static List<File> testFiles;
+	private static final String TESTPAKET_PATH = "src/de/htwg/gib/egkterminal/model/medikationsplan/testpaket";
+	private static List<File> testFiles;
 
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
-		testPaketPath = "src/de/htwg/gib/egkterminal/model/medikationsplan/testpaket";
-		testFiles = Arrays.asList(new File(testPaketPath).listFiles(new FilenameFilter() {
+		testFiles = Arrays.asList(new File(TESTPAKET_PATH).listFiles(new FilenameFilter() {
 			public boolean accept(File dir, String name) {
 				return name.toLowerCase().endsWith(".xml");
 			}

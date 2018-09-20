@@ -1,0 +1,16 @@
+<root>
+  <facet id="jpt.jaxb">
+    <node name="classgen"/>
+    <node name="libprov">
+      <attribute name="provider-id" value="jaxb-user-library-provider"/>
+    </node>
+    <node name="platform">
+      <attribute name="platform-id" value="generic_2_2"/>
+    </node>
+    <node name="schemas">
+      <node name="schema-1">
+        <attribute name="location" value="platform:/resource/JavaFromXsd/src/de/htwg/gib/egkterminal/model/medikationsplan/schema/bmp_V2.5.xsd"/>
+      </node>
+    </node>
+  </facet>
+</root>

@@ -1,0 +1,53 @@
+<bindings xmlns="http://java.sun.com/xml/ns/jaxb"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:inheritance="http://jaxb2-commons.dev.java.net/basic/inheritance"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/jaxb http://java.sun.com/xml/ns/jaxb/bindingschema_2_0.xsd"
+	xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc" version="1.0">
+	<bindings
+		schemaLocation="S_BMP_ZWISCHENUEBERSCHRIFT_V1.01.xsd">
+		<schemaBindings>
+			<package
+				name="de.htwg.gib.egkterminal.model.medikationsplan.zwischenueberschrift" />
+		</schemaBindings>
+		<bindings node="xs:element[@name='keytabs']">
+			<class name="Zwischenueberschriften" />
+			<bindings
+				node="xs:complexType/xs:sequence/xs:element[@name='keytab']">
+				<property name="Schluesseltabelle" />
+				<bindings node="xs:complexType">
+					<class name="Schluesseltabelle" />
+					<bindings node="xs:attribute[@name='SV']">
+						<property name="SchemaVersion" />
+					</bindings>
+					<bindings node="xs:attribute[@name='SN']">
+						<property name="SchemaName" />
+					</bindings>
+					<bindings node="xs:attribute[@name='S']">
+						<property name="OID" />
+					</bindings>
+					<bindings node="xs:sequence/xs:element[@name='key']">
+						<property name="Kodierungen" />
+						<bindings node="xs:complexType">
+							<class name="Zwischenueberschrift" />
+							<bindings node="xs:simpleContent/xs:extension">
+								<bindings node="xs:attribute[@name='V']">
+									<property name="Code" />
+								</bindings>
+								<bindings node="xs:attribute[@name='DN']">
+									<property name="Ueberschrift" />
+								</bindings>
+								<bindings node="xs:attribute[@name='S']">
+									<property name="OID" />
+								</bindings>
+								<bindings node="xs:attribute[@name='SV']">
+									<property name="SchemaVersion" />
+								</bindings>
+							</bindings>
+						</bindings>
+					</bindings>
+				</bindings>
+			</bindings>
+		</bindings>
+	</bindings>
+</bindings>

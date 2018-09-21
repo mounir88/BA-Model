@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arzneimittelListe
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="ArzneimittelListe.xsd">
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke></wirkstaerke>
+			<wirkstoff></wirkstoff>
+		</arzneistoff>
+		<handelsname></handelsname>
+		<pharmazentralnummer></pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke></wirkstaerke>
+			<wirkstoff></wirkstoff>
+		</arzneistoff>
+		<handelsname></handelsname>
+		<pharmazentralnummer></pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>500mg</wirkstaerke>
+			<wirkstoff>Metformin hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Metformin AbZ</handelsname>
+		<pharmazentralnummer>1725082</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>5mg</wirkstaerke>
+			<wirkstoff>Bisoprolol hemifumarat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Bisoprolol AbZ</handelsname>
+		<pharmazentralnummer>1014949</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>6,75mg</wirkstaerke>
+			<wirkstoff>Rotigotin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Neupro 3mg/24h</handelsname>
+		<pharmazentralnummer>1699775</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>6,02mg</wirkstaerke>
+			<wirkstoff>Salbutamol hemisulfat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Salbutamol AL Inhalat </handelsname>
+		<pharmazentralnummer>168739</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>1229,5mg</wirkstaerke>
+			<wirkstoff>Magnesiumaspartat hydrochlorid-3-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>Magnesiocard</handelsname>
+		<pharmazentralnummer></pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>50mg</wirkstaerke>
+			<wirkstoff>Dexpanthenol</wirkstoff>
+		</arzneistoff>
+		<handelsname>Bepanthen</handelsname>
+		<pharmazentralnummer>1578681</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>10mg</wirkstaerke>
+			<wirkstoff>Carbimazol</wirkstoff>
+		</arzneistoff>
+		<handelsname>CARBIMAZOL HEXAL </handelsname>
+		<pharmazentralnummer>1571302</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>2000mg</wirkstaerke>
+			<wirkstoff>Kaliumhydrogencarbonat</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>2170mg</wirkstaerke>
+			<wirkstoff>Kaliumcitrat-1-Wasser</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>2057mg</wirkstaerke>
+			<wirkstoff>Citronensäure</wirkstoff>
+		</arzneistoff>
+		<handelsname>alinor Brausetabletten </handelsname>
+		<pharmazentralnummer>1566347</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>10mg</wirkstaerke>
+			<wirkstoff>Torasemid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Torasemid AL</handelsname>
+		<pharmazentralnummer>1562556</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>75mg</wirkstaerke>
+			<wirkstoff>Clopidogrel</wirkstoff>
+		</arzneistoff>
+		<handelsname>Clopidogrel AAA</handelsname>
+		<pharmazentralnummer>148932</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>20mg</wirkstaerke>
+			<wirkstoff>PREDNISOLON</wirkstoff>
+		</arzneistoff>
+		<handelsname>PREDNISOLON GALEN</handelsname>
+		<pharmazentralnummer>1484543</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>	3,335g</wirkstaerke>
+			<wirkstoff>Lactulose</wirkstoff>
+		</arzneistoff>
+		<handelsname>Lactulose-1A Pharma </handelsname>
+		<pharmazentralnummer>1418931</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>100mg</wirkstaerke>
+			<wirkstoff>Acetylsalicylsäure</wirkstoff>
+		</arzneistoff>
+		<handelsname>ASS-ratiopharm</handelsname>
+		<pharmazentralnummer>1343682</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>12mg</wirkstaerke>
+			<wirkstoff>Betahistin dimesilat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Betahistin AL</handelsname>
+		<pharmazentralnummer>1309142</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>5mg</wirkstaerke>
+			<wirkstoff>Folsäure</wirkstoff>
+		</arzneistoff>
+		<handelsname>Folsäure AbZ</handelsname>
+		<pharmazentralnummer>1234533</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,351g</wirkstaerke>
+			<wirkstoff>Natriumchlorid</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>13,125g</wirkstaerke>
+			<wirkstoff>Macrogol 3350</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>0,179g</wirkstaerke>
+			<wirkstoff>Natriumhydrogencarbonat</wirkstoff>
+		</arzneistoff>
+		<handelsname>MOVICOL</handelsname>
+		<pharmazentralnummer>1215719</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>95mg</wirkstaerke>
+			<wirkstoff>Metoprolol succinat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Metoprolol Succinat TAD</handelsname>
+		<pharmazentralnummer>11562445</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>5mg/ml</wirkstaerke>
+			<wirkstoff>Melperon hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Melperon AL</handelsname>
+		<pharmazentralnummer>1097800</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>1 mg/ml</wirkstaerke>
+			<wirkstoff>Metoclopramid</wirkstoff>
+		</arzneistoff>
+		<handelsname>MCP AbZ</handelsname>
+		<pharmazentralnummer>10824340</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>200mg</wirkstaerke>
+			<wirkstoff>Metoprolol tartrat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Metoprolol AbZ</handelsname>
+		<pharmazentralnummer>1016440</pharmazentralnummer>
+	</arzneimittel>
+	
+</arzneimittelListe>

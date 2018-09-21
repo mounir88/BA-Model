@@ -4,11 +4,219 @@
 	xsi:noNamespaceSchemaLocation="ArzneimittelListe.xsd">
 	<arzneimittel>
 		<arzneistoff>
-			<wirkstaerke></wirkstaerke>
-			<wirkstoff></wirkstoff>
+			<wirkstaerke>40mg</wirkstaerke>
+			<wirkstoff>Omeprazol</wirkstoff>
 		</arzneistoff>
-		<handelsname></handelsname>
-		<pharmazentralnummer></pharmazentralnummer>
+		<handelsname>Ome-Q 40mg</handelsname>
+		<pharmazentralnummer>996330</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>40mg</wirkstaerke>
+			<wirkstoff>Simvastatin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Simva-Aristo 40mg</handelsname>
+		<pharmazentralnummer>9900751</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>200mg</wirkstaerke>
+			<wirkstoff>Amiodaron hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>AMIODARON AL 200 Tabletten</handelsname>
+		<pharmazentralnummer>972884</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>20,68mg</wirkstaerke>
+			<wirkstoff>Atorvastatin hemicalcium</wirkstoff>
+		</arzneistoff>
+		<handelsname>Atorvastatin Hennig 20mg</handelsname>
+		<pharmazentralnummer>9533264</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>28,78mg</wirkstaerke>
+			<wirkstoff>Quetiapin hemifumarat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Quetiapin-1A Pharma 25mg</handelsname>
+		<pharmazentralnummer>9494506</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>283,83mg</wirkstaerke>
+			<wirkstoff>Eisen(II)-glycin-sulfat-Komplex</wirkstoff>
+		</arzneistoff>
+		<handelsname>Ferro sanol duodenal mite 50mg</handelsname>
+		<pharmazentralnummer>940890</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>45,11mg</wirkstaerke>
+			<wirkstoff>Pantoprazol natrium-1,5-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>Pantoprazol-1A Pharma 40mg</handelsname>
+		<pharmazentralnummer>939510</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>2mg</wirkstaerke>
+			<wirkstoff>Repaglinid</wirkstoff>
+		</arzneistoff>
+		<handelsname>NovoNorm 2mg</handelsname>
+		<pharmazentralnummer>8855043</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>1000mg</wirkstaerke>
+			<wirkstoff>Metformin hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Metformin Lich 1000mg</handelsname>
+		<pharmazentralnummer>8839133</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>10mg</wirkstaerke>
+			<wirkstoff>Nitrendipin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Nitregamma 10</handelsname>
+		<pharmazentralnummer>8725412</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>8mg</wirkstaerke>
+			<wirkstoff>Molsidomin</wirkstoff>
+		</arzneistoff>
+		<handelsname>CORVATON retard 8 mg Tabl.</handelsname>
+		<pharmazentralnummer>8705415</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>12mg</wirkstaerke>
+			<wirkstoff>Betahistin dimesilat</wirkstoff>
+		</arzneistoff>
+		<handelsname>BETAHISTIN STADA 12 mg Tabletten</handelsname>
+		<pharmazentralnummer>8541942</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>12mg</wirkstaerke>
+			<wirkstoff>Betahistin dimesilat</wirkstoff>
+		</arzneistoff>
+		<handelsname>BETAVERT 12 mg Tabletten</handelsname>
+		<pharmazentralnummer>8538101</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>50mg</wirkstaerke>
+			<wirkstoff>Diclofenac natrium</wirkstoff>
+		</arzneistoff>
+		<handelsname>Diclo 50-1A Pharma</handelsname>
+		<pharmazentralnummer>8533670</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>47,5mg</wirkstaerke>
+			<wirkstoff>Metoprolol succinat</wirkstoff>
+		</arzneistoff>
+		<handelsname>MetoHEXAL Succ 47,5mg</handelsname>
+		<pharmazentralnummer>850448</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>23,75mg</wirkstaerke>
+			<wirkstoff>Metoprolol succinat	</wirkstoff>
+		</arzneistoff>
+		<handelsname>MetoHEXAL Succ 23,75mg</handelsname>
+		<pharmazentralnummer>850419</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>40mg</wirkstaerke>
+			<wirkstoff>Simvastatin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Simvastatin AAA-Pharma 40mg</handelsname>
+		<pharmazentralnummer>850307</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>20mg</wirkstaerke>
+			<wirkstoff>Rivaroxaban</wirkstoff>
+		</arzneistoff>
+		<handelsname>Xarelto 20mg</handelsname>
+		<pharmazentralnummer>8461456</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,4mg</wirkstaerke>
+			<wirkstoff>Glyceroltrinitrat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Nitrolingual akut Spray</handelsname>
+		<pharmazentralnummer>827981</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,1mg</wirkstaerke>
+			<wirkstoff>Levothyroxin natrium</wirkstoff>
+		</arzneistoff>
+		<handelsname>L-Thyrox HEXAL 100Mikrogramm</handelsname>
+		<pharmazentralnummer>811744</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,075mg</wirkstaerke>
+			<wirkstoff>Levothyroxin natrium</wirkstoff>
+		</arzneistoff>
+		<handelsname>L-Thyrox HEXAL 75Mikrogramm</handelsname>
+		<pharmazentralnummer>811721</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>1000mg</wirkstaerke>
+			<wirkstoff>Metformin hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Metformin AL 1000</handelsname>
+		<pharmazentralnummer>795028</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>10mg</wirkstaerke>
+			<wirkstoff>Torasemid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Torasemid-1A Pharma 10mg</handelsname>
+		<pharmazentralnummer>773972</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>5mg</wirkstaerke>
+			<wirkstoff>Torasemid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Torasemid-1A Pharma 5mg</handelsname>
+		<pharmazentralnummer>773883</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>5mg</wirkstaerke>
+			<wirkstoff>Ramipril</wirkstoff>
+		</arzneistoff>
+		<handelsname>Ramipril-1A Pharma 5mg</handelsname>
+		<pharmazentralnummer>766736</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>2,5mg</wirkstaerke>
+			<wirkstoff>Ramipril</wirkstoff>
+		</arzneistoff>
+		<handelsname>Ramipril-1A Pharma 2,5mg</handelsname>
+		<pharmazentralnummer>766713</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>2,5mg</wirkstaerke>
+			<wirkstoff>Ramipril</wirkstoff>
+		</arzneistoff>
+		<handelsname>Ramipril-1A Pharma 2,5mg</handelsname>
+		<pharmazentralnummer>766699</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
 		<arzneistoff>
@@ -17,6 +225,790 @@
 		</arzneistoff>
 		<handelsname></handelsname>
 		<pharmazentralnummer></pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>4mg</wirkstaerke>
+			<wirkstoff>Dexamethason</wirkstoff>
+		</arzneistoff>
+		<handelsname>DEXAMETHASON 4 mg GALEN Tabletten</handelsname>
+		<pharmazentralnummer>745740</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>500mg</wirkstaerke>
+			<wirkstoff>Metamizol natrium-1-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>Novaminsulfon Tropfen-1A Pharma</handelsname>
+		<pharmazentralnummer>7387887</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>20mg</wirkstaerke>
+			<wirkstoff>Olmesartan medoxomil</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>6,93mg</wirkstaerke>
+			<wirkstoff>Amlodipin besilat</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>12,5mg</wirkstaerke>
+			<wirkstoff>Hydrochlorothiazid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Vocado HCT 20mg/5mg/12,5mg</handelsname>
+		<pharmazentralnummer>7381821</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>169,72mg</wirkstaerke>
+			<wirkstoff>Venlafaxin hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Venlafaxin 150mg retard-1A Pharma</handelsname>
+		<pharmazentralnummer>7292431</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>40mg</wirkstaerke>
+			<wirkstoff>Pravastatin natrium</wirkstoff>
+		</arzneistoff>
+		<handelsname>Pravasin protect 40mg</handelsname>
+		<pharmazentralnummer>715756</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,2mg</wirkstaerke>
+			<wirkstoff>Budesonid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Budes N 0,2mg/Dosis</handelsname>
+		<pharmazentralnummer>713881</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>47,5mg</wirkstaerke>
+			<wirkstoff>Metoprolol succinat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Metoprololsuccinat AL 47,5mg</handelsname>
+		<pharmazentralnummer>7097020</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke></wirkstaerke>
+			<wirkstoff>Baldrianwurzel</wirkstoff>
+		</arzneistoff>
+		<handelsname>BALDRIAN-RATIOPHARM überzogene Tabletten</handelsname>
+		<pharmazentralnummer>7052750</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>32,58mg</wirkstaerke>
+			<wirkstoff>Codein phosphat-0,5-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>Bronchicum Mono Codein</handelsname>
+		<pharmazentralnummer>6884365</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>47,77mg</wirkstaerke>
+			<wirkstoff>Pipamperon dihydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Pipamperon 40-1A Pharma</handelsname>
+		<pharmazentralnummer>6861370</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>18mg</wirkstaerke>
+			<wirkstoff>Rivastigmin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Exelon 9,5mg/24Stunden</handelsname>
+		<pharmazentralnummer>6733666</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>100mg</wirkstaerke>
+			<wirkstoff>Acetylsalicylsäure</wirkstoff>
+		</arzneistoff>
+		<handelsname>Aspirin protect 100mg</handelsname>
+		<pharmazentralnummer>6706155</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,05mg</wirkstaerke>
+			<wirkstoff>Levothyroxin natrium</wirkstoff>
+		</arzneistoff>
+		<handelsname>L-Thyroxin 50-1A Pharma</handelsname>
+		<pharmazentralnummer>6488652</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>22,56mg</wirkstaerke>
+			<wirkstoff>Pantoprazol natrium-1,5-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>Pantoprazol-1A Pharma 20mg bei Sodbrennen</handelsname>
+		<pharmazentralnummer>6486305</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>25mg</wirkstaerke>
+			<wirkstoff>Hydrochlorothiazid</wirkstoff>
+		</arzneistoff>
+		<handelsname>HCT-1A Pharma 25mg</handelsname>
+		<pharmazentralnummer>6453174</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>12,5mg</wirkstaerke>
+			<wirkstoff>Hydrochlorothiazid</wirkstoff>
+		</arzneistoff>
+		<handelsname>HCT-1A Pharma 12,5mg</handelsname>
+		<pharmazentralnummer>6453151</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>100mg</wirkstaerke>
+			<wirkstoff>Acetylsalicylsäure</wirkstoff>
+		</arzneistoff>
+		<handelsname>ASS 100-1A Pharma TAH</handelsname>
+		<pharmazentralnummer>6312060</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>600mg</wirkstaerke>
+			<wirkstoff>Acetylcystein</wirkstoff>
+		</arzneistoff>
+		<handelsname>ACC akut 600mg Hustenlöser</handelsname>
+		<pharmazentralnummer>6197481</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>20mg</wirkstaerke>
+			<wirkstoff>Omeprazol</wirkstoff>
+		</arzneistoff>
+		<handelsname>OMEP 20mg</handelsname>
+		<pharmazentralnummer>602905</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke></wirkstaerke>
+			<wirkstoff></wirkstoff>
+		</arzneistoff>
+		<handelsname>TROMCARDIN complex Tabletten</handelsname>
+		<pharmazentralnummer>5950686</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>20mg</wirkstaerke>
+			<wirkstoff>Omeprazol</wirkstoff>
+		</arzneistoff>
+		<handelsname>Omeprazol Heumann 20mg Heunet</handelsname>
+		<pharmazentralnummer>5909985</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>6,93mg</wirkstaerke>
+			<wirkstoff>Amlodipin besilat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Amlodipin-1A Pharma 5mg N</handelsname>
+		<pharmazentralnummer>5881985</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>25mg</wirkstaerke>
+			<wirkstoff>Hydrochlorothiazid</wirkstoff>
+		</arzneistoff>
+		<handelsname>HCT-beta 25</handelsname>
+		<pharmazentralnummer>580339</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>12,49mg</wirkstaerke>
+			<wirkstoff>Citalopram hydrobromid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Citalopram dura 10mg</handelsname>
+		<pharmazentralnummer>5748789</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>300mg</wirkstaerke>
+			<wirkstoff>Carbamazepin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Timonil 300 retard</handelsname>
+		<pharmazentralnummer>5744567</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,1mg</wirkstaerke>
+			<wirkstoff>Levothyroxin natrium</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>0,131mg</wirkstaerke>
+			<wirkstoff>Kaliumiodid</wirkstoff>
+		</arzneistoff>
+		<handelsname>L-Thyroxin Jod 100/100-1A-Pharma</handelsname>
+		<pharmazentralnummer>5701380</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>300 Einheiten</wirkstaerke>
+			<wirkstoff>Insulin aspart</wirkstoff>
+		</arzneistoff>
+		<handelsname>NovoRapid Penfill 100Einheiten/ml 3ml</handelsname>
+		<pharmazentralnummer>558736</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,052mg</wirkstaerke>
+			<wirkstoff>Mometason furoat-1-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>NASONEX </handelsname>
+		<pharmazentralnummer>55509</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>3mg</wirkstaerke>
+			<wirkstoff>Phenprocoumon</wirkstoff>
+		</arzneistoff>
+		<handelsname>Marcumar</handelsname>
+		<pharmazentralnummer>5541338</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>100mg</wirkstaerke>
+			<wirkstoff>Levodopa</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>28,54mg</wirkstaerke>
+			<wirkstoff>Benserazid hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Restex 100mg/25mg</handelsname>
+		<pharmazentralnummer>5515513</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>300 IE</wirkstaerke>
+			<wirkstoff>Insulin-Isophan (human)</wirkstoff>
+		</arzneistoff>
+		<handelsname>Protaphane Penfill 100 I.E./ml</handelsname>
+		<pharmazentralnummer>544757</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>100mg</wirkstaerke>
+			<wirkstoff>Losartan kalium</wirkstoff>
+		</arzneistoff>
+		<handelsname>Losar-Q 100mg</handelsname>
+		<pharmazentralnummer>5396907</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>300 Einheiten</wirkstaerke>
+			<wirkstoff>Insulin glargin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Lantus 100 Einheiten/ml SoloStar 3ml</handelsname>
+		<pharmazentralnummer>5387825</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>300 IE</wirkstaerke>
+			<wirkstoff>Insulin, normal (human)</wirkstoff>
+		</arzneistoff>
+		<handelsname>Actrapid Penfill 100I.E./ml</handelsname>
+		<pharmazentralnummer>536338</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>13,87mg</wirkstaerke>
+			<wirkstoff>Amlodipin besilat</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>160mg</wirkstaerke>
+			<wirkstoff>Valsartan</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>25mg</wirkstaerke>
+			<wirkstoff>Hydrochlorothiazid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Exforge HCT 10mg/160mg/25mg</handelsname>
+		<pharmazentralnummer>5112117</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0.07mg</wirkstaerke>
+			<wirkstoff>Digitoxin</wirkstoff>
+		</arzneistoff>
+		<handelsname>DIGIMERCK minor 0,07 mg Tabletten</handelsname>
+		<pharmazentralnummer>4903822</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0.05mg</wirkstaerke>
+			<wirkstoff>Digitoxin</wirkstoff>
+		</arzneistoff>
+		<handelsname>DIGIMERCK pico 0,05 mg Tabletten</handelsname>
+		<pharmazentralnummer>4903816</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,4mg</wirkstaerke>
+			<wirkstoff>Glyceroltrinitrat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Nitrangin Pumpspray</handelsname>
+		<pharmazentralnummer>4877970</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>80mg</wirkstaerke>
+			<wirkstoff>Ciclopirox</wirkstoff>
+		</arzneistoff>
+		<handelsname>Nagel Batrafen</handelsname>
+		<pharmazentralnummer>4512286</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>10,54mg</wirkstaerke>
+			<wirkstoff>Metoclopramid hydrochlorid-1-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>MCP AL 10</handelsname>
+		<pharmazentralnummer>45072</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>150mg</wirkstaerke>
+			<wirkstoff>Amantadin hemisulfat</wirkstoff>
+		</arzneistoff>
+		<handelsname>PK-Merz 150mg</handelsname>
+		<pharmazentralnummer>447830</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>300mg</wirkstaerke>
+			<wirkstoff>Propafenonhydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>PROPAFENON 300 Heumann Filmtabletten</handelsname>
+		<pharmazentralnummer>4473149</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>500mg</wirkstaerke>
+			<wirkstoff>Metamizol natrium-1-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>Novaminsulfon 500mg Lichtenstein</handelsname>
+		<pharmazentralnummer>4443361</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,05mg</wirkstaerke>
+			<wirkstoff>Levothyroxin natrium</wirkstoff>
+		</arzneistoff>
+		<handelsname>Eferox 50 Mikrogramm</handelsname>
+		<pharmazentralnummer>4315048</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>12,49mg</wirkstaerke>
+			<wirkstoff>Citalopram hydrobromid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Citalopram dura 10mg</handelsname>
+		<pharmazentralnummer>4220276</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>5mg</wirkstaerke>
+			<wirkstoff>Ramipril</wirkstoff>
+		</arzneistoff>
+		<handelsname>Ramipril STADA 5mg</handelsname>
+		<pharmazentralnummer>4213974</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>10mg</wirkstaerke>
+			<wirkstoff>Enalapril maleat</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>25mg</wirkstaerke>
+			<wirkstoff>Hydrochlorothiazid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Enalapril comp. AbZ 10mg/25mg</handelsname>
+		<pharmazentralnummer>4182765</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>400mg</wirkstaerke>
+			<wirkstoff>Gabapentin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Gabapentin-1A Pharma 400mg</handelsname>
+		<pharmazentralnummer>4170696</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>97,86mg</wirkstaerke>
+			<wirkstoff>Clopidogrel sulfat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Plavix 75mg</handelsname>
+		<pharmazentralnummer>4129423</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>5mg</wirkstaerke>
+			<wirkstoff>Prednisolon</wirkstoff>
+		</arzneistoff>
+		<handelsname>PREDNISOLON 5 mg Jenapharm Tabletten</handelsname>
+		<pharmazentralnummer>4022406</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>20mg</wirkstaerke>
+			<wirkstoff>Colecalciferol Lösungen, ölig</wirkstoff>
+		</arzneistoff>
+		<handelsname>DEKRISTOL 20.000 I.E. Weichkapseln</handelsname>
+		<pharmazentralnummer>4007393</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>7,5mg</wirkstaerke>
+			<wirkstoff>Zopiclon</wirkstoff>
+		</arzneistoff>
+		<handelsname>Ximovan</handelsname>
+		<pharmazentralnummer>3909372</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>28,29mg</wirkstaerke>
+			<wirkstoff>Amitriptylin hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Amineurin 25mg</handelsname>
+		<pharmazentralnummer>3634343</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>50mg</wirkstaerke>
+			<wirkstoff>Bicalutamid</wirkstoff>
+		</arzneistoff>
+		<handelsname>BICALUTAMID-ratiopharm 50 mg Filmtabletten</handelsname>
+		<pharmazentralnummer>3574523</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,14mg</wirkstaerke>
+			<wirkstoff>Azelastin hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Allergodil akut</handelsname>
+		<pharmazentralnummer>3436979</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>25mg</wirkstaerke>
+			<wirkstoff>Promethazin hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Promethazin-neuraxpharm 25mg</handelsname>
+		<pharmazentralnummer>3421699</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>300mg</wirkstaerke>
+			<wirkstoff>Allopurinol</wirkstoff>
+		</arzneistoff>
+		<handelsname>Allopurinol AL 300</handelsname>
+		<pharmazentralnummer>3399847</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>20mg</wirkstaerke>
+			<wirkstoff>Simvastatin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Simvastatin dura 20mg</handelsname>
+		<pharmazentralnummer>3271449</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>20mg</wirkstaerke>
+			<wirkstoff>Nifedipin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Nifedipin-ratiopharm 20mg/ml</handelsname>
+		<pharmazentralnummer>3146891</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>10mg</wirkstaerke>
+			<wirkstoff>Nifedipin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Nifedipin-ratiopharm 10mg</handelsname>
+		<pharmazentralnummer>3086350</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,522mg</wirkstaerke>
+			<wirkstoff>Ipratropium bromid-1-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>Atrovent 500µg/2ml Fertiginhalat</handelsname>
+		<pharmazentralnummer>2836180</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>567,7mg</wirkstaerke>
+			<wirkstoff>Eisen(II)-glycin-sulfat-Komplex</wirkstoff>
+		</arzneistoff>
+		<handelsname>Ferro sanol duodenal 100mg</handelsname>
+		<pharmazentralnummer>2799421</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>69,71mg</wirkstaerke>
+			<wirkstoff>Trimipramin hydrogenmaleat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Trimipramin 50-1A Pharma</handelsname>
+		<pharmazentralnummer>278250</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>60mg</wirkstaerke>
+			<wirkstoff>Etoricoxib</wirkstoff>
+		</arzneistoff>
+		<handelsname>ARCOXIA 60mg</handelsname>
+		<pharmazentralnummer>2761051</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,075mg</wirkstaerke>
+			<wirkstoff>Levothyroxin natrium</wirkstoff>
+		</arzneistoff>
+		<handelsname>Euthyrox 75Mikrogramm</handelsname>
+		<pharmazentralnummer>2754677</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>100mg</wirkstaerke>
+			<wirkstoff>Levodopa</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>28,54mg</wirkstaerke>
+			<wirkstoff>Benserazid hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Madopar LT zur Herstellung einer Suspension zum Einnehmen</handelsname>
+		<pharmazentralnummer>2535113</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,075mg</wirkstaerke>
+			<wirkstoff>Levothyroxin natrium</wirkstoff>
+		</arzneistoff>
+		<handelsname>L-Thyroxin Henning 75</handelsname>
+		<pharmazentralnummer>2532741</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>1000 IE</wirkstaerke>
+			<wirkstoff>Insulin-Isophan (human)</wirkstoff>
+		</arzneistoff>
+		<handelsname>Huminsulin Basal (NPH) 100</handelsname>
+		<pharmazentralnummer>2526491</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>30mg</wirkstaerke>
+			<wirkstoff>Mirtazapin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Mirtazapin-1A Pharma 30mg</handelsname>
+		<pharmazentralnummer>250665</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>500mg</wirkstaerke>
+			<wirkstoff>Paracetamol</wirkstoff>
+		</arzneistoff>
+		<handelsname>Paracetamol 500-1A Pharma</handelsname>
+		<pharmazentralnummer>2481570</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,75mg</wirkstaerke>
+			<wirkstoff>Pramipexol dihydrochlorid-1-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>SIFROL 0,52mg</handelsname>
+		<pharmazentralnummer>2460326</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>900mg</wirkstaerke>
+			<wirkstoff>Johanniskraut-Trockenextrakt</wirkstoff>
+		</arzneistoff>
+		<handelsname>Laif 900 Balance</handelsname>
+		<pharmazentralnummer>2455874</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>860,93mg</wirkstaerke>
+			<wirkstoff>Amoxicillin-3-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>Amoxicillin-ratiopharm 750mg</handelsname>
+		<pharmazentralnummer>2394397</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>2,5mg</wirkstaerke>
+			<wirkstoff>Ramipril</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>12,5mg</wirkstaerke>
+			<wirkstoff>Hydrochlorothiazid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Ramipril-ratiopharm comp. 2,5mg/12,5mg</handelsname>
+		<pharmazentralnummer>2355262</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>1500mg</wirkstaerke>
+			<wirkstoff>Calciumcarbonat</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>0,01mg</wirkstaerke>
+			<wirkstoff>Colecalciferol</wirkstoff>
+		</arzneistoff>
+		<handelsname>Calcium-Sandoz D Osteo 600mg/400I.E. </handelsname>
+		<pharmazentralnummer>2340148</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>95mg</wirkstaerke>
+			<wirkstoff>Metoprolol succinat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Metoprololsuccinat-1A Pharma 95mg</handelsname>
+		<pharmazentralnummer>230272</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>47,5mg</wirkstaerke>
+			<wirkstoff>Metoprolol succinat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Metoprololsuccinat-1A Pharma 47,5mg</handelsname>
+		<pharmazentralnummer>229464</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>23,75mg</wirkstaerke>
+			<wirkstoff>Metoprolol succinat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Metoprololsuccinat-1A Pharma 23,75mg</handelsname>
+		<pharmazentralnummer>228921</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>10mg</wirkstaerke>
+			<wirkstoff>Cetirizin dihydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Cetirizin STADA 10mg</handelsname>
+		<pharmazentralnummer>2246627</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>5mg</wirkstaerke>
+			<wirkstoff>Ramipril</wirkstoff>
+		</arzneistoff>
+		<handelsname>Ramipril-ratiopharm 5mg</handelsname>
+		<pharmazentralnummer>2223945</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,05mg</wirkstaerke>
+			<wirkstoff>Levothyroxin natrium</wirkstoff>
+		</arzneistoff>
+		<handelsname>Euthyrox 50Mikrogramm</handelsname>
+		<pharmazentralnummer>2198012</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>0,5mg</wirkstaerke>
+			<wirkstoff>Clonazepam</wirkstoff>
+		</arzneistoff>
+		<handelsname>Rivotril 0,5mg</handelsname>
+		<pharmazentralnummer>213799</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>50mg</wirkstaerke>
+			<wirkstoff>Diphenhydramin hydrochlorid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Vivinox Sleep Schlaftabletten stark</handelsname>
+		<pharmazentralnummer>2083906</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>10mg</wirkstaerke>
+			<wirkstoff>Enalapril maleat</wirkstoff>
+		</arzneistoff>
+		<handelsname>Enalapril AbZ 10mg</handelsname>
+		<pharmazentralnummer>2058593</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>10mg</wirkstaerke>
+			<wirkstoff>Ramipril</wirkstoff>
+		</arzneistoff>
+		<handelsname>RamiLich 10mg</handelsname>
+		<pharmazentralnummer>1983654</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>5mg</wirkstaerke>
+			<wirkstoff>Ramipril</wirkstoff>
+		</arzneistoff>
+		<handelsname>RamiLich 5mg</handelsname>
+		<pharmazentralnummer>1983625</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>2,5mg</wirkstaerke>
+			<wirkstoff>Ramipril</wirkstoff>
+		</arzneistoff>
+		<handelsname>RamiLich 2,5mg</handelsname>
+		<pharmazentralnummer>1983619</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>10mg</wirkstaerke>
+			<wirkstoff>Simvastatin</wirkstoff>
+		</arzneistoff>
+		<handelsname>Simvastatin-1A Pharma 10mg </handelsname>
+		<pharmazentralnummer>1970002</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>291,1mg</wirkstaerke>
+			<wirkstoff>Ciprofloxacin hydrochlorid-1-Wasser</wirkstoff>
+		</arzneistoff>
+		<handelsname>Cipro-1A Pharma 250mg</handelsname>
+		<pharmazentralnummer>1969938</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>24,99mg</wirkstaerke>
+			<wirkstoff>Citalopram hydrobromid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Citalopram-1A Pharma</handelsname>
+		<pharmazentralnummer>176101</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>5mg</wirkstaerke>
+			<wirkstoff>Ramipril</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>Hydrochlorothiazid</wirkstaerke>
+			<wirkstoff>25mg</wirkstoff>
+		</arzneistoff>
+		<handelsname>Ramipril comp. AbZ</handelsname>
+		<pharmazentralnummer>1755717</pharmazentralnummer>
+	</arzneimittel>
+	<arzneimittel>
+		<arzneistoff>
+			<wirkstaerke>5mg</wirkstaerke>
+			<wirkstoff>Ramipril</wirkstoff>
+		</arzneistoff>
+		<arzneistoff>
+			<wirkstaerke>25mg</wirkstaerke>
+			<wirkstoff>Hydrochlorothiazid</wirkstoff>
+		</arzneistoff>
+		<handelsname>Ramipril comp. AbZ</handelsname>
+		<pharmazentralnummer>1755692</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
 		<arzneistoff>

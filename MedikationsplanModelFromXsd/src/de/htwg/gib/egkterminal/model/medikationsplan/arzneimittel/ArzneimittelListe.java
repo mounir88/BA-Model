@@ -27,6 +27,7 @@ public class ArzneimittelListe {
 
 		private String pharmazentralnummer;
 		private String handelsname;
+		private String darreichungsformcode;
 		@XmlElement(name = "arzneistoff")
 		private List<Arzneistoff> arzneistoffe;
 
@@ -44,6 +45,14 @@ public class ArzneimittelListe {
 
 		public void setHandelsname(String handelsname) {
 			this.handelsname = handelsname;
+		}
+
+		public String getDarreichungsformcode() {
+			return darreichungsformcode;
+		}
+
+		public void setDarreichungsformcode(String darreichungsformcode) {
+			this.darreichungsformcode = darreichungsformcode;
 		}
 
 		public List<Arzneistoff> getArzneistoffe() {

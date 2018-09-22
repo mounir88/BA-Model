@@ -8,6 +8,7 @@
 			<wirkstoff>Omeprazol</wirkstoff>
 		</arzneistoff>
 		<handelsname>Ome-Q 40mg</handelsname>
+		<darreichungsformcode>KMP</darreichungsformcode>
 		<pharmazentralnummer>996330</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -16,6 +17,7 @@
 			<wirkstoff>Simvastatin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Simva-Aristo 40mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>9900751</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -23,7 +25,8 @@
 			<wirkstaerke>200mg</wirkstaerke>
 			<wirkstoff>Amiodaron hydrochlorid</wirkstoff>
 		</arzneistoff>
-		<handelsname>AMIODARON AL 200 Tabletten</handelsname>
+		<handelsname>AMIODARON AL 200</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>972884</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -32,6 +35,7 @@
 			<wirkstoff>Atorvastatin hemicalcium</wirkstoff>
 		</arzneistoff>
 		<handelsname>Atorvastatin Hennig 20mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>9533264</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -40,6 +44,7 @@
 			<wirkstoff>Quetiapin hemifumarat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Quetiapin-1A Pharma 25mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>9494506</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -48,6 +53,7 @@
 			<wirkstoff>Eisen(II)-glycin-sulfat-Komplex</wirkstoff>
 		</arzneistoff>
 		<handelsname>Ferro sanol duodenal mite 50mg</handelsname>
+		<darreichungsformcode>KMP</darreichungsformcode>
 		<pharmazentralnummer>940890</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -56,6 +62,7 @@
 			<wirkstoff>Pantoprazol natrium-1,5-Wasser</wirkstoff>
 		</arzneistoff>
 		<handelsname>Pantoprazol-1A Pharma 40mg</handelsname>
+		<darreichungsformcode>TMR</darreichungsformcode>
 		<pharmazentralnummer>939510</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -64,6 +71,7 @@
 			<wirkstoff>Repaglinid</wirkstoff>
 		</arzneistoff>
 		<handelsname>NovoNorm 2mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>8855043</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -72,6 +80,7 @@
 			<wirkstoff>Metformin hydrochlorid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Metformin Lich 1000mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>8839133</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -80,6 +89,7 @@
 			<wirkstoff>Nitrendipin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Nitregamma 10</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>8725412</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -87,7 +97,8 @@
 			<wirkstaerke>8mg</wirkstaerke>
 			<wirkstoff>Molsidomin</wirkstoff>
 		</arzneistoff>
-		<handelsname>CORVATON retard 8 mg Tabl.</handelsname>
+		<handelsname>CORVATON retard 8mg</handelsname>
+		<darreichungsformcode>RET</darreichungsformcode>
 		<pharmazentralnummer>8705415</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -95,7 +106,8 @@
 			<wirkstaerke>12mg</wirkstaerke>
 			<wirkstoff>Betahistin dimesilat</wirkstoff>
 		</arzneistoff>
-		<handelsname>BETAHISTIN STADA 12 mg Tabletten</handelsname>
+		<handelsname>BETAHISTIN STADA 12mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>8541942</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -103,7 +115,8 @@
 			<wirkstaerke>12mg</wirkstaerke>
 			<wirkstoff>Betahistin dimesilat</wirkstoff>
 		</arzneistoff>
-		<handelsname>BETAVERT 12 mg Tabletten</handelsname>
+		<handelsname>BETAVERT 12mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>8538101</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -112,6 +125,7 @@
 			<wirkstoff>Diclofenac natrium</wirkstoff>
 		</arzneistoff>
 		<handelsname>Diclo 50-1A Pharma</handelsname>
+		<darreichungsformcode>TMR</darreichungsformcode>
 		<pharmazentralnummer>8533670</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -120,6 +134,7 @@
 			<wirkstoff>Metoprolol succinat</wirkstoff>
 		</arzneistoff>
 		<handelsname>MetoHEXAL Succ 47,5mg</handelsname>
+		<darreichungsformcode>RET</darreichungsformcode>
 		<pharmazentralnummer>850448</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -128,6 +143,7 @@
 			<wirkstoff>Metoprolol succinat	</wirkstoff>
 		</arzneistoff>
 		<handelsname>MetoHEXAL Succ 23,75mg</handelsname>
+		<darreichungsformcode>RET</darreichungsformcode>
 		<pharmazentralnummer>850419</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -136,6 +152,7 @@
 			<wirkstoff>Simvastatin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Simvastatin AAA-Pharma 40mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>850307</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -144,6 +161,7 @@
 			<wirkstoff>Rivaroxaban</wirkstoff>
 		</arzneistoff>
 		<handelsname>Xarelto 20mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>8461456</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -152,6 +170,7 @@
 			<wirkstoff>Glyceroltrinitrat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Nitrolingual akut Spray</handelsname>
+		<darreichungsformcode>LOE</darreichungsformcode>
 		<pharmazentralnummer>827981</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -159,7 +178,8 @@
 			<wirkstaerke>0,1mg</wirkstaerke>
 			<wirkstoff>Levothyroxin natrium</wirkstoff>
 		</arzneistoff>
-		<handelsname>L-Thyrox HEXAL 100Mikrogramm</handelsname>
+		<handelsname>L-Thyrox HEXAL 100µg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>811744</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -167,7 +187,8 @@
 			<wirkstaerke>0,075mg</wirkstaerke>
 			<wirkstoff>Levothyroxin natrium</wirkstoff>
 		</arzneistoff>
-		<handelsname>L-Thyrox HEXAL 75Mikrogramm</handelsname>
+		<handelsname>L-Thyrox HEXAL 75µg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>811721</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -176,6 +197,7 @@
 			<wirkstoff>Metformin hydrochlorid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Metformin AL 1000</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>795028</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -184,6 +206,7 @@
 			<wirkstoff>Torasemid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Torasemid-1A Pharma 10mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>773972</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -192,6 +215,7 @@
 			<wirkstoff>Torasemid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Torasemid-1A Pharma 5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>773883</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -200,6 +224,7 @@
 			<wirkstoff>Ramipril</wirkstoff>
 		</arzneistoff>
 		<handelsname>Ramipril-1A Pharma 5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>766736</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -208,6 +233,7 @@
 			<wirkstoff>Ramipril</wirkstoff>
 		</arzneistoff>
 		<handelsname>Ramipril-1A Pharma 2,5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>766713</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -216,22 +242,16 @@
 			<wirkstoff>Ramipril</wirkstoff>
 		</arzneistoff>
 		<handelsname>Ramipril-1A Pharma 2,5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>766699</pharmazentralnummer>
-	</arzneimittel>
-	<arzneimittel>
-		<arzneistoff>
-			<wirkstaerke></wirkstaerke>
-			<wirkstoff></wirkstoff>
-		</arzneistoff>
-		<handelsname></handelsname>
-		<pharmazentralnummer></pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
 		<arzneistoff>
 			<wirkstaerke>4mg</wirkstaerke>
 			<wirkstoff>Dexamethason</wirkstoff>
 		</arzneistoff>
-		<handelsname>DEXAMETHASON 4 mg GALEN Tabletten</handelsname>
+		<handelsname>DEXAMETHASON 4 mg GALEN</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>745740</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -240,6 +260,7 @@
 			<wirkstoff>Metamizol natrium-1-Wasser</wirkstoff>
 		</arzneistoff>
 		<handelsname>Novaminsulfon Tropfen-1A Pharma</handelsname>
+		<darreichungsformcode>TRO</darreichungsformcode>
 		<pharmazentralnummer>7387887</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -256,6 +277,7 @@
 			<wirkstoff>Hydrochlorothiazid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Vocado HCT 20mg/5mg/12,5mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>7381821</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -264,6 +286,7 @@
 			<wirkstoff>Venlafaxin hydrochlorid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Venlafaxin 150mg retard-1A Pharma</handelsname>
+		<darreichungsformcode>REK</darreichungsformcode>
 		<pharmazentralnummer>7292431</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -272,6 +295,7 @@
 			<wirkstoff>Pravastatin natrium</wirkstoff>
 		</arzneistoff>
 		<handelsname>Pravasin protect 40mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>715756</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -280,6 +304,7 @@
 			<wirkstoff>Budesonid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Budes N 0,2mg/Dosis</handelsname>
+		<darreichungsformcode>DOS</darreichungsformcode>
 		<pharmazentralnummer>713881</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -288,6 +313,7 @@
 			<wirkstoff>Metoprolol succinat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Metoprololsuccinat AL 47,5mg</handelsname>
+		<darreichungsformcode>RET</darreichungsformcode>
 		<pharmazentralnummer>7097020</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -295,7 +321,8 @@
 			<wirkstaerke></wirkstaerke>
 			<wirkstoff>Baldrianwurzel</wirkstoff>
 		</arzneistoff>
-		<handelsname>BALDRIAN-RATIOPHARM überzogene Tabletten</handelsname>
+		<handelsname>BALDRIAN-RATIOPHARM</handelsname>
+		<darreichungsformcode>UTA</darreichungsformcode>
 		<pharmazentralnummer>7052750</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -304,6 +331,7 @@
 			<wirkstoff>Codein phosphat-0,5-Wasser</wirkstoff>
 		</arzneistoff>
 		<handelsname>Bronchicum Mono Codein</handelsname>
+		<darreichungsformcode>TEI</darreichungsformcode>
 		<pharmazentralnummer>6884365</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -312,6 +340,7 @@
 			<wirkstoff>Pipamperon dihydrochlorid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Pipamperon 40-1A Pharma</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>6861370</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -320,6 +349,7 @@
 			<wirkstoff>Rivastigmin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Exelon 9,5mg/24Stunden</handelsname>
+		<darreichungsformcode>PFT</darreichungsformcode>
 		<pharmazentralnummer>6733666</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -328,6 +358,7 @@
 			<wirkstoff>Acetylsalicylsäure</wirkstoff>
 		</arzneistoff>
 		<handelsname>Aspirin protect 100mg</handelsname>
+		<darreichungsformcode>TMR</darreichungsformcode>
 		<pharmazentralnummer>6706155</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -336,6 +367,7 @@
 			<wirkstoff>Levothyroxin natrium</wirkstoff>
 		</arzneistoff>
 		<handelsname>L-Thyroxin 50-1A Pharma</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>6488652</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -344,6 +376,7 @@
 			<wirkstoff>Pantoprazol natrium-1,5-Wasser</wirkstoff>
 		</arzneistoff>
 		<handelsname>Pantoprazol-1A Pharma 20mg bei Sodbrennen</handelsname>
+		<darreichungsformcode>TMR</darreichungsformcode>
 		<pharmazentralnummer>6486305</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -352,6 +385,7 @@
 			<wirkstoff>Hydrochlorothiazid</wirkstoff>
 		</arzneistoff>
 		<handelsname>HCT-1A Pharma 25mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>6453174</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -360,6 +394,7 @@
 			<wirkstoff>Hydrochlorothiazid</wirkstoff>
 		</arzneistoff>
 		<handelsname>HCT-1A Pharma 12,5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>6453151</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -368,6 +403,7 @@
 			<wirkstoff>Acetylsalicylsäure</wirkstoff>
 		</arzneistoff>
 		<handelsname>ASS 100-1A Pharma TAH</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>6312060</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -376,6 +412,7 @@
 			<wirkstoff>Acetylcystein</wirkstoff>
 		</arzneistoff>
 		<handelsname>ACC akut 600mg Hustenlöser</handelsname>
+		<darreichungsformcode>BTA</darreichungsformcode>
 		<pharmazentralnummer>6197481</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -384,6 +421,7 @@
 			<wirkstoff>Omeprazol</wirkstoff>
 		</arzneistoff>
 		<handelsname>OMEP 20mg</handelsname>
+		<darreichungsformcode>HKM</darreichungsformcode>
 		<pharmazentralnummer>602905</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -391,7 +429,8 @@
 			<wirkstaerke></wirkstaerke>
 			<wirkstoff></wirkstoff>
 		</arzneistoff>
-		<handelsname>TROMCARDIN complex Tabletten</handelsname>
+		<handelsname>TROMCARDIN complex</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>5950686</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -400,6 +439,7 @@
 			<wirkstoff>Omeprazol</wirkstoff>
 		</arzneistoff>
 		<handelsname>Omeprazol Heumann 20mg Heunet</handelsname>
+		<darreichungsformcode>HKM</darreichungsformcode>
 		<pharmazentralnummer>5909985</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -408,6 +448,7 @@
 			<wirkstoff>Amlodipin besilat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Amlodipin-1A Pharma 5mg N</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>5881985</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -416,6 +457,7 @@
 			<wirkstoff>Hydrochlorothiazid</wirkstoff>
 		</arzneistoff>
 		<handelsname>HCT-beta 25</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>580339</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -424,6 +466,7 @@
 			<wirkstoff>Citalopram hydrobromid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Citalopram dura 10mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>5748789</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -432,6 +475,7 @@
 			<wirkstoff>Carbamazepin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Timonil 300 retard</handelsname>
+		<darreichungsformcode>RET</darreichungsformcode>
 		<pharmazentralnummer>5744567</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -444,6 +488,7 @@
 			<wirkstoff>Kaliumiodid</wirkstoff>
 		</arzneistoff>
 		<handelsname>L-Thyroxin Jod 100/100-1A-Pharma</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>5701380</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -452,6 +497,7 @@
 			<wirkstoff>Insulin aspart</wirkstoff>
 		</arzneistoff>
 		<handelsname>NovoRapid Penfill 100Einheiten/ml 3ml</handelsname>
+		<darreichungsformcode>ZAM</darreichungsformcode>
 		<pharmazentralnummer>558736</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -460,6 +506,7 @@
 			<wirkstoff>Mometason furoat-1-Wasser</wirkstoff>
 		</arzneistoff>
 		<handelsname>NASONEX </handelsname>
+		<darreichungsformcode>NAS</darreichungsformcode>
 		<pharmazentralnummer>55509</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -468,6 +515,7 @@
 			<wirkstoff>Phenprocoumon</wirkstoff>
 		</arzneistoff>
 		<handelsname>Marcumar</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>5541338</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -480,6 +528,7 @@
 			<wirkstoff>Benserazid hydrochlorid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Restex 100mg/25mg</handelsname>
+		<darreichungsformcode>REK</darreichungsformcode>
 		<pharmazentralnummer>5515513</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -488,6 +537,7 @@
 			<wirkstoff>Insulin-Isophan (human)</wirkstoff>
 		</arzneistoff>
 		<handelsname>Protaphane Penfill 100 I.E./ml</handelsname>
+		<darreichungsformcode>ZAM</darreichungsformcode>
 		<pharmazentralnummer>544757</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -496,6 +546,7 @@
 			<wirkstoff>Losartan kalium</wirkstoff>
 		</arzneistoff>
 		<handelsname>Losar-Q 100mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>5396907</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -504,6 +555,7 @@
 			<wirkstoff>Insulin glargin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Lantus 100 Einheiten/ml SoloStar 3ml</handelsname>
+		<darreichungsformcode>ILO</darreichungsformcode>
 		<pharmazentralnummer>5387825</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -512,6 +564,7 @@
 			<wirkstoff>Insulin, normal (human)</wirkstoff>
 		</arzneistoff>
 		<handelsname>Actrapid Penfill 100I.E./ml</handelsname>
+		<darreichungsformcode>ZAM</darreichungsformcode>
 		<pharmazentralnummer>536338</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -528,6 +581,7 @@
 			<wirkstoff>Hydrochlorothiazid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Exforge HCT 10mg/160mg/25mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>5112117</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -535,7 +589,8 @@
 			<wirkstaerke>0.07mg</wirkstaerke>
 			<wirkstoff>Digitoxin</wirkstoff>
 		</arzneistoff>
-		<handelsname>DIGIMERCK minor 0,07 mg Tabletten</handelsname>
+		<handelsname>DIGIMERCK minor 0,07mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>4903822</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -543,7 +598,8 @@
 			<wirkstaerke>0.05mg</wirkstaerke>
 			<wirkstoff>Digitoxin</wirkstoff>
 		</arzneistoff>
-		<handelsname>DIGIMERCK pico 0,05 mg Tabletten</handelsname>
+		<handelsname>DIGIMERCK pico 0,05mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>4903816</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -552,6 +608,7 @@
 			<wirkstoff>Glyceroltrinitrat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Nitrangin Pumpspray</handelsname>
+		<darreichungsformcode>SPR</darreichungsformcode>
 		<pharmazentralnummer>4877970</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -560,6 +617,7 @@
 			<wirkstoff>Ciclopirox</wirkstoff>
 		</arzneistoff>
 		<handelsname>Nagel Batrafen</handelsname>
+		<darreichungsformcode>LOE</darreichungsformcode>
 		<pharmazentralnummer>4512286</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -568,6 +626,7 @@
 			<wirkstoff>Metoclopramid hydrochlorid-1-Wasser</wirkstoff>
 		</arzneistoff>
 		<handelsname>MCP AL 10</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>45072</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -576,6 +635,7 @@
 			<wirkstoff>Amantadin hemisulfat</wirkstoff>
 		</arzneistoff>
 		<handelsname>PK-Merz 150mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>447830</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -583,7 +643,8 @@
 			<wirkstaerke>300mg</wirkstaerke>
 			<wirkstoff>Propafenonhydrochlorid</wirkstoff>
 		</arzneistoff>
-		<handelsname>PROPAFENON 300 Heumann Filmtabletten</handelsname>
+		<handelsname>PROPAFENON 300 Heumann</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>4473149</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -592,6 +653,7 @@
 			<wirkstoff>Metamizol natrium-1-Wasser</wirkstoff>
 		</arzneistoff>
 		<handelsname>Novaminsulfon 500mg Lichtenstein</handelsname>
+		<darreichungsformcode>TEI</darreichungsformcode>
 		<pharmazentralnummer>4443361</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -599,7 +661,8 @@
 			<wirkstaerke>0,05mg</wirkstaerke>
 			<wirkstoff>Levothyroxin natrium</wirkstoff>
 		</arzneistoff>
-		<handelsname>Eferox 50 Mikrogramm</handelsname>
+		<handelsname>Eferox 50µg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>4315048</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -608,6 +671,7 @@
 			<wirkstoff>Citalopram hydrobromid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Citalopram dura 10mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>4220276</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -616,6 +680,7 @@
 			<wirkstoff>Ramipril</wirkstoff>
 		</arzneistoff>
 		<handelsname>Ramipril STADA 5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>4213974</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -628,6 +693,7 @@
 			<wirkstoff>Hydrochlorothiazid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Enalapril comp. AbZ 10mg/25mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>4182765</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -636,6 +702,7 @@
 			<wirkstoff>Gabapentin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Gabapentin-1A Pharma 400mg</handelsname>
+		<darreichungsformcode>HKP</darreichungsformcode>
 		<pharmazentralnummer>4170696</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -644,6 +711,7 @@
 			<wirkstoff>Clopidogrel sulfat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Plavix 75mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>4129423</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -651,7 +719,8 @@
 			<wirkstaerke>5mg</wirkstaerke>
 			<wirkstoff>Prednisolon</wirkstoff>
 		</arzneistoff>
-		<handelsname>PREDNISOLON 5 mg Jenapharm Tabletten</handelsname>
+		<handelsname>PREDNISOLON 5 mg Jenapharm</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>4022406</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -659,7 +728,8 @@
 			<wirkstaerke>20mg</wirkstaerke>
 			<wirkstoff>Colecalciferol Lösungen, ölig</wirkstoff>
 		</arzneistoff>
-		<handelsname>DEKRISTOL 20.000 I.E. Weichkapseln</handelsname>
+		<handelsname>DEKRISTOL 20.000 I.E.</handelsname>
+		<darreichungsformcode>WKA</darreichungsformcode>
 		<pharmazentralnummer>4007393</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -668,6 +738,7 @@
 			<wirkstoff>Zopiclon</wirkstoff>
 		</arzneistoff>
 		<handelsname>Ximovan</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>3909372</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -676,6 +747,7 @@
 			<wirkstoff>Amitriptylin hydrochlorid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Amineurin 25mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>3634343</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -683,7 +755,8 @@
 			<wirkstaerke>50mg</wirkstaerke>
 			<wirkstoff>Bicalutamid</wirkstoff>
 		</arzneistoff>
-		<handelsname>BICALUTAMID-ratiopharm 50 mg Filmtabletten</handelsname>
+		<handelsname>BICALUTAMID-ratiopharm 50 mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>3574523</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -692,6 +765,7 @@
 			<wirkstoff>Azelastin hydrochlorid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Allergodil akut</handelsname>
+		<darreichungsformcode>NAS</darreichungsformcode>
 		<pharmazentralnummer>3436979</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -700,6 +774,7 @@
 			<wirkstoff>Promethazin hydrochlorid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Promethazin-neuraxpharm 25mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>3421699</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -708,6 +783,7 @@
 			<wirkstoff>Allopurinol</wirkstoff>
 		</arzneistoff>
 		<handelsname>Allopurinol AL 300</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>3399847</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -716,6 +792,7 @@
 			<wirkstoff>Simvastatin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Simvastatin dura 20mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>3271449</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -724,6 +801,7 @@
 			<wirkstoff>Nifedipin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Nifedipin-ratiopharm 20mg/ml</handelsname>
+		<darreichungsformcode>TEI</darreichungsformcode>
 		<pharmazentralnummer>3146891</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -732,6 +810,7 @@
 			<wirkstoff>Nifedipin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Nifedipin-ratiopharm 10mg</handelsname>
+		<darreichungsformcode>WKA</darreichungsformcode>
 		<pharmazentralnummer>3086350</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -740,6 +819,7 @@
 			<wirkstoff>Ipratropium bromid-1-Wasser</wirkstoff>
 		</arzneistoff>
 		<handelsname>Atrovent 500µg/2ml Fertiginhalat</handelsname>
+		<darreichungsformcode>LOV</darreichungsformcode>
 		<pharmazentralnummer>2836180</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -748,6 +828,7 @@
 			<wirkstoff>Eisen(II)-glycin-sulfat-Komplex</wirkstoff>
 		</arzneistoff>
 		<handelsname>Ferro sanol duodenal 100mg</handelsname>
+		<darreichungsformcode>KMP</darreichungsformcode>
 		<pharmazentralnummer>2799421</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -756,6 +837,7 @@
 			<wirkstoff>Trimipramin hydrogenmaleat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Trimipramin 50-1A Pharma</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>278250</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -764,6 +846,7 @@
 			<wirkstoff>Etoricoxib</wirkstoff>
 		</arzneistoff>
 		<handelsname>ARCOXIA 60mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>2761051</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -771,7 +854,8 @@
 			<wirkstaerke>0,075mg</wirkstaerke>
 			<wirkstoff>Levothyroxin natrium</wirkstoff>
 		</arzneistoff>
-		<handelsname>Euthyrox 75Mikrogramm</handelsname>
+		<handelsname>Euthyrox 75µg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>2754677</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -783,7 +867,8 @@
 			<wirkstaerke>28,54mg</wirkstaerke>
 			<wirkstoff>Benserazid hydrochlorid</wirkstoff>
 		</arzneistoff>
-		<handelsname>Madopar LT zur Herstellung einer Suspension zum Einnehmen</handelsname>
+		<handelsname>Madopar</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>2535113</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -792,6 +877,7 @@
 			<wirkstoff>Levothyroxin natrium</wirkstoff>
 		</arzneistoff>
 		<handelsname>L-Thyroxin Henning 75</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>2532741</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -800,6 +886,7 @@
 			<wirkstoff>Insulin-Isophan (human)</wirkstoff>
 		</arzneistoff>
 		<handelsname>Huminsulin Basal (NPH) 100</handelsname>
+		<darreichungsformcode>ISU</darreichungsformcode>
 		<pharmazentralnummer>2526491</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -808,6 +895,7 @@
 			<wirkstoff>Mirtazapin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Mirtazapin-1A Pharma 30mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>250665</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -816,6 +904,7 @@
 			<wirkstoff>Paracetamol</wirkstoff>
 		</arzneistoff>
 		<handelsname>Paracetamol 500-1A Pharma</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>2481570</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -824,6 +913,7 @@
 			<wirkstoff>Pramipexol dihydrochlorid-1-Wasser</wirkstoff>
 		</arzneistoff>
 		<handelsname>SIFROL 0,52mg</handelsname>
+		<darreichungsformcode>RET</darreichungsformcode>
 		<pharmazentralnummer>2460326</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -832,6 +922,7 @@
 			<wirkstoff>Johanniskraut-Trockenextrakt</wirkstoff>
 		</arzneistoff>
 		<handelsname>Laif 900 Balance</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>2455874</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -840,6 +931,7 @@
 			<wirkstoff>Amoxicillin-3-Wasser</wirkstoff>
 		</arzneistoff>
 		<handelsname>Amoxicillin-ratiopharm 750mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>2394397</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -852,6 +944,7 @@
 			<wirkstoff>Hydrochlorothiazid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Ramipril-ratiopharm comp. 2,5mg/12,5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>2355262</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -864,6 +957,7 @@
 			<wirkstoff>Colecalciferol</wirkstoff>
 		</arzneistoff>
 		<handelsname>Calcium-Sandoz D Osteo 600mg/400I.E. </handelsname>
+		<darreichungsformcode>BTA</darreichungsformcode>
 		<pharmazentralnummer>2340148</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -872,6 +966,7 @@
 			<wirkstoff>Metoprolol succinat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Metoprololsuccinat-1A Pharma 95mg</handelsname>
+		<darreichungsformcode>RET</darreichungsformcode>
 		<pharmazentralnummer>230272</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -880,6 +975,7 @@
 			<wirkstoff>Metoprolol succinat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Metoprololsuccinat-1A Pharma 47,5mg</handelsname>
+		<darreichungsformcode>RET</darreichungsformcode>
 		<pharmazentralnummer>229464</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -888,6 +984,7 @@
 			<wirkstoff>Metoprolol succinat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Metoprololsuccinat-1A Pharma 23,75mg</handelsname>
+		<darreichungsformcode>RET</darreichungsformcode>
 		<pharmazentralnummer>228921</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -896,6 +993,7 @@
 			<wirkstoff>Cetirizin dihydrochlorid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Cetirizin STADA 10mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>2246627</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -904,6 +1002,7 @@
 			<wirkstoff>Ramipril</wirkstoff>
 		</arzneistoff>
 		<handelsname>Ramipril-ratiopharm 5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>2223945</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -911,7 +1010,8 @@
 			<wirkstaerke>0,05mg</wirkstaerke>
 			<wirkstoff>Levothyroxin natrium</wirkstoff>
 		</arzneistoff>
-		<handelsname>Euthyrox 50Mikrogramm</handelsname>
+		<handelsname>Euthyrox 50µg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>2198012</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -920,6 +1020,7 @@
 			<wirkstoff>Clonazepam</wirkstoff>
 		</arzneistoff>
 		<handelsname>Rivotril 0,5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>213799</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -928,6 +1029,7 @@
 			<wirkstoff>Diphenhydramin hydrochlorid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Vivinox Sleep Schlaftabletten stark</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>2083906</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -936,6 +1038,7 @@
 			<wirkstoff>Enalapril maleat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Enalapril AbZ 10mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>2058593</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -944,6 +1047,7 @@
 			<wirkstoff>Ramipril</wirkstoff>
 		</arzneistoff>
 		<handelsname>RamiLich 10mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1983654</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -952,6 +1056,7 @@
 			<wirkstoff>Ramipril</wirkstoff>
 		</arzneistoff>
 		<handelsname>RamiLich 5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1983625</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -960,6 +1065,7 @@
 			<wirkstoff>Ramipril</wirkstoff>
 		</arzneistoff>
 		<handelsname>RamiLich 2,5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1983619</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -968,6 +1074,7 @@
 			<wirkstoff>Simvastatin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Simvastatin-1A Pharma 10mg </handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>1970002</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -976,6 +1083,7 @@
 			<wirkstoff>Ciprofloxacin hydrochlorid-1-Wasser</wirkstoff>
 		</arzneistoff>
 		<handelsname>Cipro-1A Pharma 250mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>1969938</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -983,7 +1091,8 @@
 			<wirkstaerke>24,99mg</wirkstaerke>
 			<wirkstoff>Citalopram hydrobromid</wirkstoff>
 		</arzneistoff>
-		<handelsname>Citalopram-1A Pharma</handelsname>
+		<handelsname>Citalopram-1A Pharma 20mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>176101</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -995,7 +1104,8 @@
 			<wirkstaerke>Hydrochlorothiazid</wirkstaerke>
 			<wirkstoff>25mg</wirkstoff>
 		</arzneistoff>
-		<handelsname>Ramipril comp. AbZ</handelsname>
+		<handelsname>Ramipril comp. AbZ 5mg/25mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1755717</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1007,7 +1117,8 @@
 			<wirkstaerke>25mg</wirkstaerke>
 			<wirkstoff>Hydrochlorothiazid</wirkstoff>
 		</arzneistoff>
-		<handelsname>Ramipril comp. AbZ</handelsname>
+		<handelsname>Ramipril comp. AbZ 5mg/25mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1755692</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1015,7 +1126,8 @@
 			<wirkstaerke>500mg</wirkstaerke>
 			<wirkstoff>Metformin hydrochlorid</wirkstoff>
 		</arzneistoff>
-		<handelsname>Metformin AbZ</handelsname>
+		<handelsname>Metformin AbZ 500mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>1725082</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1023,7 +1135,8 @@
 			<wirkstaerke>5mg</wirkstaerke>
 			<wirkstoff>Bisoprolol hemifumarat</wirkstoff>
 		</arzneistoff>
-		<handelsname>Bisoprolol AbZ</handelsname>
+		<handelsname>Bisoprolol AbZ 5mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1014949</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1032,6 +1145,7 @@
 			<wirkstoff>Rotigotin</wirkstoff>
 		</arzneistoff>
 		<handelsname>Neupro 3mg/24h</handelsname>
+		<darreichungsformcode>PFT</darreichungsformcode>
 		<pharmazentralnummer>1699775</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1040,6 +1154,7 @@
 			<wirkstoff>Salbutamol hemisulfat</wirkstoff>
 		</arzneistoff>
 		<handelsname>Salbutamol AL Inhalat </handelsname>
+		<darreichungsformcode>LOV</darreichungsformcode>
 		<pharmazentralnummer>168739</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1047,8 +1162,9 @@
 			<wirkstaerke>1229,5mg</wirkstaerke>
 			<wirkstoff>Magnesiumaspartat hydrochlorid-3-Wasser</wirkstoff>
 		</arzneistoff>
-		<handelsname>Magnesiocard</handelsname>
-		<pharmazentralnummer></pharmazentralnummer>
+		<handelsname>Magnesiocard 5mmol</handelsname>
+		<darreichungsformcode>PLE</darreichungsformcode>
+		<pharmazentralnummer>1667870</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
 		<arzneistoff>
@@ -1056,6 +1172,7 @@
 			<wirkstoff>Dexpanthenol</wirkstoff>
 		</arzneistoff>
 		<handelsname>Bepanthen</handelsname>
+		<darreichungsformcode>ASN</darreichungsformcode>
 		<pharmazentralnummer>1578681</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1063,7 +1180,8 @@
 			<wirkstaerke>10mg</wirkstaerke>
 			<wirkstoff>Carbimazol</wirkstoff>
 		</arzneistoff>
-		<handelsname>CARBIMAZOL HEXAL </handelsname>
+		<handelsname>CARBIMAZOL 10 mg HEXAL</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1571302</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1079,7 +1197,8 @@
 			<wirkstaerke>2057mg</wirkstaerke>
 			<wirkstoff>Citronensäure</wirkstoff>
 		</arzneistoff>
-		<handelsname>alinor Brausetabletten </handelsname>
+		<handelsname>Kalinor</handelsname>
+		<darreichungsformcode>BTA</darreichungsformcode>
 		<pharmazentralnummer>1566347</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1087,7 +1206,8 @@
 			<wirkstaerke>10mg</wirkstaerke>
 			<wirkstoff>Torasemid</wirkstoff>
 		</arzneistoff>
-		<handelsname>Torasemid AL</handelsname>
+		<handelsname>Torasemid AL 10mg</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1562556</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1095,7 +1215,8 @@
 			<wirkstaerke>75mg</wirkstaerke>
 			<wirkstoff>Clopidogrel</wirkstoff>
 		</arzneistoff>
-		<handelsname>Clopidogrel AAA</handelsname>
+		<handelsname>Clopidogrel AAA 75mg</handelsname>
+		<darreichungsformcode>FTA</darreichungsformcode>
 		<pharmazentralnummer>148932</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1103,7 +1224,8 @@
 			<wirkstaerke>20mg</wirkstaerke>
 			<wirkstoff>PREDNISOLON</wirkstoff>
 		</arzneistoff>
-		<handelsname>PREDNISOLON GALEN</handelsname>
+		<handelsname>PREDNISOLON 20 mg GALEN</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1484543</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1112,6 +1234,7 @@
 			<wirkstoff>Lactulose</wirkstoff>
 		</arzneistoff>
 		<handelsname>Lactulose-1A Pharma </handelsname>
+		<darreichungsformcode>SIR</darreichungsformcode>
 		<pharmazentralnummer>1418931</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1119,7 +1242,8 @@
 			<wirkstaerke>100mg</wirkstaerke>
 			<wirkstoff>Acetylsalicylsäure</wirkstoff>
 		</arzneistoff>
-		<handelsname>ASS-ratiopharm</handelsname>
+		<handelsname>ASS-ratiopharm 100mg TAH</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1343682</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1127,7 +1251,8 @@
 			<wirkstaerke>12mg</wirkstaerke>
 			<wirkstoff>Betahistin dimesilat</wirkstoff>
 		</arzneistoff>
-		<handelsname>Betahistin AL</handelsname>
+		<handelsname>BETAHISTIN AL 12</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1309142</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1136,6 +1261,7 @@
 			<wirkstoff>Folsäure</wirkstoff>
 		</arzneistoff>
 		<handelsname>Folsäure AbZ</handelsname>
+		<darreichungsformcode>TAB</darreichungsformcode>
 		<pharmazentralnummer>1234533</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1152,6 +1278,7 @@
 			<wirkstoff>Natriumhydrogencarbonat</wirkstoff>
 		</arzneistoff>
 		<handelsname>MOVICOL</handelsname>
+		<darreichungsformcode>PLE</darreichungsformcode>
 		<pharmazentralnummer>1215719</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1159,7 +1286,8 @@
 			<wirkstaerke>95mg</wirkstaerke>
 			<wirkstoff>Metoprolol succinat</wirkstoff>
 		</arzneistoff>
-		<handelsname>Metoprolol Succinat TAD</handelsname>
+		<handelsname>Metoprolol Succinat TAD 95mg</handelsname>
+		<darreichungsformcode>RET</darreichungsformcode>
 		<pharmazentralnummer>11562445</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1168,6 +1296,7 @@
 			<wirkstoff>Melperon hydrochlorid</wirkstoff>
 		</arzneistoff>
 		<handelsname>Melperon AL</handelsname>
+		<darreichungsformcode>LSE</darreichungsformcode>
 		<pharmazentralnummer>1097800</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1175,7 +1304,8 @@
 			<wirkstaerke>1 mg/ml</wirkstaerke>
 			<wirkstoff>Metoclopramid</wirkstoff>
 		</arzneistoff>
-		<handelsname>MCP AbZ</handelsname>
+		<handelsname>MCP AbZ 1 mg/ml</handelsname>
+		<darreichungsformcode>LSE</darreichungsformcode>
 		<pharmazentralnummer>10824340</pharmazentralnummer>
 	</arzneimittel>
 	<arzneimittel>
@@ -1183,8 +1313,9 @@
 			<wirkstaerke>200mg</wirkstaerke>
 			<wirkstoff>Metoprolol tartrat</wirkstoff>
 		</arzneistoff>
-		<handelsname>Metoprolol AbZ</handelsname>
+		<handelsname>Metoprolol AbZ 200mg retard</handelsname>
+		<darreichungsformcode>RET</darreichungsformcode>
 		<pharmazentralnummer>1016440</pharmazentralnummer>
 	</arzneimittel>
-	
+
 </arzneimittelListe>

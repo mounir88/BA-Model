@@ -46,7 +46,7 @@ public class ListMedikation {
 
 		});
 		System.out.println("count=" + pzn.size());
-		System.out.println(pzn);
+		pzn.forEach(pzn -> System.out.println(pzn));
 	}
 
 }
